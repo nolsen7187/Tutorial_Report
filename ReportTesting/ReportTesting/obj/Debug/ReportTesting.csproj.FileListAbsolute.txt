@@ -1,0 +1,14 @@
+c:\users\nolsen\documents\visual studio 2012\Projects\ReportTesting\ReportTesting\bin\Debug\ReportTesting.exe.config
+c:\users\nolsen\documents\visual studio 2012\Projects\ReportTesting\ReportTesting\bin\Debug\ReportTesting.exe
+c:\users\nolsen\documents\visual studio 2012\Projects\ReportTesting\ReportTesting\bin\Debug\ReportTesting.pdb
+c:\users\nolsen\documents\visual studio 2012\Projects\ReportTesting\ReportTesting\obj\Debug\ReportTesting.csprojResolveAssemblyReference.cache
+c:\users\nolsen\documents\visual studio 2012\Projects\ReportTesting\ReportTesting\obj\Debug\ReportTesting.Form1.resources
+c:\users\nolsen\documents\visual studio 2012\Projects\ReportTesting\ReportTesting\obj\Debug\ReportTesting.Properties.Resources.resources
+c:\users\nolsen\documents\visual studio 2012\Projects\ReportTesting\ReportTesting\obj\Debug\ReportTesting.csproj.GenerateResource.Cache
+c:\users\nolsen\documents\visual studio 2012\Projects\ReportTesting\ReportTesting\obj\Debug\RdlCompile.cache
+c:\users\nolsen\documents\visual studio 2012\Projects\ReportTesting\ReportTesting\obj\Debug\RdlCompile.compiled
+c:\users\nolsen\documents\visual studio 2012\Projects\ReportTesting\ReportTesting\obj\Debug\ReportTesting.exe
+c:\users\nolsen\documents\visual studio 2012\Projects\ReportTesting\ReportTesting\obj\Debug\ReportTesting.pdb
+C:\Users\NOLSEN\Source\Repos\Tutorial_Report\ReportTesting\ReportTesting\bin\Debug\ReportTesting.exe.config
+C:\Users\NOLSEN\Source\Repos\Tutorial_Report\ReportTesting\ReportTesting\obj\Debug\ReportTesting.exe
+C:\Users\NOLSEN\Source\Repos\Tutorial_Report\ReportTesting\ReportTesting\obj\Debug\ReportTesting.pdb
